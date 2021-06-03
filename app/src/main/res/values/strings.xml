@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SmartCold_QRReader</string>
+    <string name="openqr">Open QR</string>
+    <string name="valueQR">Your QRCode Value</string>
 </resources>
